@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+data/cifar10/
+
+data/cifar10/
